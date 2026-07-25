@@ -1,5 +1,108 @@
 @import "tailwindcss";
 
+/* ---------- Theme ---------- */
+
+:root {
+  --background: #020617;
+  --foreground: #f8fafc;
+  --primary: #06b6d4;
+  --secondary: #0f172a;
+  --border: #1e293b;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+
+  background: var(--background);
+  color: var(--foreground);
+
+  font-family:
+    Inter,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+
+  overflow-x: hidden;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ---------- Scrollbar ---------- */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #06b6d4;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #22d3ee;
+}
+
+/* ---------- Selection ---------- */
+
+::selection {
+  background: #06b6d4;
+  color: #fff;
+}
+
+/* ---------- Images ---------- */
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* ---------- Links ---------- */
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ---------- Buttons ---------- */
+
+button {
+  cursor: pointer;
+}
+
+/* ---------- Sections ---------- */
+
+section {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+/* ---------- Animation ---------- */
+
+.fade-up {
+  animation: fadeUp 0.8s ease forwards;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
