@@ -28,7 +28,7 @@ function Hero() {
             </h1>
 
             <h2 className="mt-5 text-2xl md:text-3xl text-slate-300">
-              React Developer & Full Stack Developer
+            Full Stack Developer & AI ML Enthusiast
             </h2>
 
             <p className="mt-6 text-slate-400 leading-8 max-w-xl">
@@ -55,11 +55,11 @@ function Hero() {
             </div>
 
             <div className="flex gap-6 mt-8 text-3xl">
-              <a href="https://github.com/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/devadath006" target="_blank" rel="noreferrer">
                 <FaGithub className="hover:text-cyan-400 transition" />
               </a>
 
-              <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/devadath-k-nair-84a466323/" target="_blank" rel="noreferrer">
                 <FaLinkedin className="hover:text-cyan-400 transition" />
               </a>
             </div>
@@ -75,7 +75,7 @@ function Hero() {
             <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-cyan-400 shadow-2xl">
               <img
                 src={profile}
-                alt="Devadath"
+                alt="Devadath K Nair"
                 className="w-full h-full object-cover"
               />
             </div>

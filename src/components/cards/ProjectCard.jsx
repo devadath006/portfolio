@@ -4,11 +4,11 @@ function ProjectCard({ project }) {
   return (
     <div className="bg-slate-800 rounded-2xl overflow-hidden border border-slate-700 hover:border-cyan-400 transition-all duration-300 hover:-translate-y-2">
 
-      <img
+      {/* <img
         src={project.image}
         alt={project.title}
         className="w-full h-56 object-cover"
-      />
+      /> */}
 
       <div className="p-6">
 

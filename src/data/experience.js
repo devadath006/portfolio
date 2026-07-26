@@ -8,6 +8,22 @@ export const experience = [
       "Studying web development, databases, data structures, and software engineering.",
   },
   {
+    id: 5,
+    year: "April 2026",
+    title: "Full Stack Developer ",
+  company: "IEI (Institution of Engineers India),Kochi",
+    description:
+      "Developed a web application for the Institution of Engineers India, Kochi, using Vanilla, Express.js, and PostreSQL.",
+  },
+  {
+    id: 6,
+    year: "June 2026",
+    title: "Founder and CEO",
+    company: "Khyathi Weaves",
+    description:
+      "Started a online business selling handloom textiles, managing operations, and marketing.",
+  },
+  {
     id: 2,
     year: "June 2026",
     title: "Software Development Intern",

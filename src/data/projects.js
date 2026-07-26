@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A centralized log monitoring platform that monitors server and Docker logs, detects errors, and provides real-time analytics with alerts.",
 
-    image: "/og-image.png",
+   // image: "/og-image.png",
 
     technologies: [
       "FastAPI",
@@ -16,8 +16,8 @@ export const projects = [
       "Kibana",
     ],
 
-    github: "#",
-    demo: "#",
+    github: "https://github.com/devadath006/speech-logix-log-viewer",
+   // demo: "#",
   },
 
   {
@@ -27,7 +27,7 @@ export const projects = [
     description:
       "Modern Institution Innovation Council portal built using React with responsive design and event management.",
 
-    image: "/og-image.png",
+   // image: "/og-image.png",
 
     technologies: [
       "React",
@@ -35,26 +35,44 @@ export const projects = [
       "Supabase",
     ],
 
-    github: "#",
-    demo: "#",
+    github: "https://github.com/iic-amrita-kochicampus/IIC-official-website-",
+   // demo: "#",
   },
 
   {
-    id: 3,
+    id: 6,
     title: "Khyathi Weaves",
 
     description:
       "E-commerce website for showcasing sarees with a clean user experience and responsive interface.",
 
-    image: "/og-image.png",
+    //image: "/og-image.png",
 
     technologies: [
-      "React",
+      "HTML,JS",
       "Supabase",
       "CSS",
     ],
 
-    github: "#",
-    demo: "#",
+    github: "https://github.com/devadath006/Khyathi-weaves",
+    demo: "www.khyathiweaves.in",
+  },
+  {
+    id: 3,
+    title: "IEI (Institution of Engineers India),Kochi Local Centre Web Application",
+
+    description:
+      "E-commerce website for showcasing sarees with a clean user experience and responsive interface.",
+
+    //image: "/og-image.png",
+
+    technologies: [
+      "HTML,JSS",
+      "Supabase",
+      "CSS",
+    ],
+
+    github: "https://github.com/ieikochi123-pixel/iei",
+    demo: "www.ieikochi.org",
   },
 ];

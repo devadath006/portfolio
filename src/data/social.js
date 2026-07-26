@@ -3,31 +3,38 @@ import {
   FaLinkedin,
   FaEnvelope,
   FaMapMarkerAlt,
+  FaPhoneAlt,
 } from "react-icons/fa";
 
 export const socialLinks = [
   {
     icon: FaGithub,
     title: "GitHub",
-    value: "github.com/yourusername",
-    link: "https://github.com/yourusername",
+    value: "devadath006",
+    link: "https://github.com/devadath006",
   },
   {
     icon: FaLinkedin,
     title: "LinkedIn",
-    value: "linkedin.com/in/yourusername",
-    link: "https://linkedin.com/in/yourusername",
+    value: "Devadath K Nair",
+    link: "https://www.linkedin.com/in/devadath-k-nair-84a466323/",
   },
   {
     icon: FaEnvelope,
     title: "Email",
-    value: "your@email.com",
-    link: "mailto:your@email.com",
+    value: "devadathmeofficial@gmail.com",
+    link: "mailto:devadathmeofficial@gmail.com",
+  },
+  {
+    icon: FaPhoneAlt,
+    title: "Phone",
+    value: "+91 7559803522", // Replace with your phone number
+    link: "tel:+917559803522",
   },
   {
     icon: FaMapMarkerAlt,
     title: "Location",
-    value: "Kerala, India",
+    value: "Kochi, Kerala, India",
     link: "#",
   },
 ];

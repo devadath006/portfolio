@@ -49,7 +49,7 @@ function About() {
           </h2>
 
           <p className="mt-6 max-w-3xl text-slate-400 leading-8">
-            I'm a passionate web developer who enjoys creating clean,
+            I'm a passionate web developer and AI ML enthusiast who enjoys creating clean,
             responsive, and user-friendly web applications. I love
             transforming ideas into real products using modern
             technologies while continuously learning and improving my
