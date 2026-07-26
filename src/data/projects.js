@@ -35,7 +35,7 @@ export const projects = [
       "Supabase",
     ],
 
-    github: "https://github.com/iic-amrita-kochicampus/IIC-official-website-",
+    github: "https://github.com/iic-amrita-kochicampus/IIC-official-website-/tree/test",
    // demo: "#",
   },
 
@@ -55,7 +55,7 @@ export const projects = [
     ],
 
     github: "https://github.com/devadath006/Khyathi-weaves",
-    demo: "www.khyathiweaves.in",
+    demo: "https://www.khyathiweaves.in/",
   },
   {
     id: 3,
@@ -73,6 +73,6 @@ export const projects = [
     ],
 
     github: "https://github.com/ieikochi123-pixel/iei",
-    demo: "www.ieikochi.org",
+    demo: "https://www.ieikochi.org/",
   },
 ];

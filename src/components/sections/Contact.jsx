@@ -104,7 +104,7 @@ function Contact() {
             <textarea
               name="message"
               rows="6"
-              placeholder="Your Message"
+              placeholder="Your Message(add your mail id and phone number in the message)"
               required
               className="w-full bg-slate-800 border border-slate-700 rounded-lg p-4 outline-none focus:border-cyan-400"
             />
