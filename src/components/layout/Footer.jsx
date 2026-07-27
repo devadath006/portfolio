@@ -48,15 +48,15 @@ function Footer() {
 
             <div className="flex gap-5 text-2xl">
 
-              <a href="https://github.com/yourusername">
+              <a href="https://github.com/devadath006">
                 <FaGithub className="hover:text-cyan-400 transition" />
               </a>
 
-              <a href="https://linkedin.com/in/yourusername">
+              <a href="https://www.linkedin.com/in/devadath-k-nair-84a466323/">
                 <FaLinkedin className="hover:text-cyan-400 transition" />
               </a>
 
-              <a href="mailto:your@email.com">
+              <a href="mailto:devadathmeofficial@gmail.com">
                 <FaEnvelope className="hover:text-cyan-400 transition" />
               </a>
 
