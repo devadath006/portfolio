@@ -28,8 +28,8 @@ export const socialLinks = [
   {
     icon: FaPhoneAlt,
     title: "Phone",
-    value: "+91 7559803522", // Replace with your phone number
-    link: "tel:+917559803522",
+    value: "+91 8943391747", // Replace with your phone number
+    link: "tel:+918943391747",
   },
   {
     icon: FaMapMarkerAlt,
