@@ -17,7 +17,7 @@ export const experience = [
   },
   {
     id: 6,
-    year: "June 2026",
+    year: "June 2026 - Present",
     title: "Founder and CEO",
     company: "Khyathi Weaves",
     description:
@@ -33,7 +33,7 @@ export const experience = [
   },
   {
     id: 3,
-    year: "2026",
+    year: "2026 - Present",
     title: "Startup Coordinator",
     company: "Institution Innovation Council (IIC)",
     description:
@@ -41,7 +41,7 @@ export const experience = [
   },
   {
     id: 4,
-    year: "2026",
+    year: "2026 - Present",
     title: "Innovation Ambassador",
     company: "Ministry of Education",
     description:
