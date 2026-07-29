@@ -67,7 +67,7 @@ export const projects = [
     //image: "/og-image.png",
 
     technologies: [
-      "HTML,JSS",
+      "HTML,JS",
       "Supabase",
       "CSS",
     ],
