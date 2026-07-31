@@ -22,7 +22,7 @@ export const projects = [
 
   {
     id: 2,
-    title: "IIC Portal",
+    title: "IIC Website",
 
     description:
       "Modern Institution Innovation Council portal built using React with responsive design and event management.",
